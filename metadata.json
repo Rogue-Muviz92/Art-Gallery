@@ -1,0 +1,6 @@
+{
+  "name": "Art Gallery",
+  "description": "An elegant exhibition and tribute portfolio website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

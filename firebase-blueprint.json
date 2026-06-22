@@ -1,0 +1,25 @@
+{
+  "entities": {
+    "AuthorizedUser": {
+      "title": "AuthorizedUser",
+      "description": "Authorized user for copyright consent",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "lastLoginAt": { "type": "string", "format": "date-time" },
+        "consentedToCopyright": { "type": "boolean" },
+        "consentedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid"]
+    }
+  },
+  "firestore": {
+    "authorized_users/{userId}": {
+      "schema": "AuthorizedUser",
+      "description": "Users"
+    }
+  }
+}
