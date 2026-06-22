@@ -15,12 +15,12 @@ export const defaultArtistProfile: ArtistProfile = {
   contactText: "These paintings were produced in extremely limited quantities and are already in the hands of their rightful caretakers and owners. There are absolutely no paintings available for buying or selling, and this space serves strictly as a permanent archive of the artist's legacy.",
   contactEmail: "archives@ziu-ud-din.com",
   contactPhone: "+91 98450 12053",
-  portraitUrl: "/src/assets/images/artist_portrait_1782059993153.jpg",
+  portraitUrl: "/images/artist_portrait_1782059993153.jpg",
   portraitCaption: "The Artist Zia-ud-din Hassan — Dramatic Chiaroscuro Study",
-  brushstrokeUrl: "/src/assets/images/brushstroke_detail_1782060016154.jpg",
+  brushstrokeUrl: "/images/brushstroke_detail_1782060016154.jpg",
   brushstrokeCaption: "Detail of aged oil paint layers and studio lighting",
   painting1: {
-    url: "/src/assets/images/painting_hero_1782060036879.jpg",
+    url: "/images/painting_hero_1782060036879.jpg",
     title: "The Canopy of Solitude",
     year: "1989",
     medium: "Oil on Canvas",
@@ -28,7 +28,7 @@ export const defaultArtistProfile: ArtistProfile = {
     description: "A monumental representation of rural life resting under the shade of an ancient, sprawling banyan. Cast in warm, dusty tones, cattle grazing and a distant silhouette evoke a profound sense of pastoral memory and enduring peace."
   },
   painting2: {
-    url: "/src/assets/images/painting_still_life_1782060060109.jpg",
+    url: "/images/painting_still_life_1782060060109.jpg",
     title: "Vessel of the Silent Tide",
     year: "1994",
     medium: "Oil on Textured Board",
@@ -36,7 +36,7 @@ export const defaultArtistProfile: ArtistProfile = {
     description: "A dramatic sea voyage depicting high-rigged ships braving the cresting waves of an amber-tinted sea under a heavy sky. Thick, expressive brushwork captures the raw energy of wind and crushing foam."
   },
   painting3: {
-    url: "/src/assets/images/painting_sketch_1782060114377.jpg",
+    url: "/images/painting_sketch_1782060114377.jpg",
     title: "The Flight over Silver Waters",
     year: "1998",
     medium: "Oil on Fine Linen Canvas",
@@ -44,7 +44,7 @@ export const defaultArtistProfile: ArtistProfile = {
     description: "A waterbird glides gracefully through dense autumn mist over a glassy, reflective wetland. Soft, blurred edges around the forest foliage lend a ghostly, atmospheric, dreamlike quality to the composition."
   },
   painting4: {
-    url: "/src/assets/images/painting_landscape_1782060080917.jpg",
+    url: "/images/painting_landscape_1782060080917.jpg",
     title: "Sanctuary of the Ridge",
     year: "2004",
     medium: "Oil on Canvas Board",
@@ -52,7 +52,8 @@ export const defaultArtistProfile: ArtistProfile = {
     description: "A secluded winter shelter tucked between towering snow-laden fir trees, guarded by rugged mountains reflecting the last blush of twilight. Soft mist rolls down the creek bed, bringing an isolated charm."
   },
   painting5: {
-    url: "/src/assets/images/painting_interior_1782060136919.jpg",
+    url: "/images/painting_interior_1782060136919.jpg",
+
     title: "Crimson Twilight",
     year: "2011",
     medium: "Oil on Vertical Canvas",
