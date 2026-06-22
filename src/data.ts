@@ -1,22 +1,22 @@
 import { ArtistProfile } from "./types";
 
 export const defaultArtistProfile: ArtistProfile = {
-  fatherName: "M. D. Ahmad",
-  logoText: "M.D. AHMAD ARCHIVES",
+  fatherName: "Zia-ud-din Hassan",
+  logoText: "ZIA-UD-DIN HASSAN ARCHIVES",
   tagline: "Chasing the quiet dust of memory, the heavy mist of twilight, and the warm lights of pastoral heritage.",
   philosophyQuote: "Art is not where the light originates, but the soft, ghostly shadow it leaves behind in our memory when we close our eyes.",
-  philosophyAuthor: "M. D. Ahmad",
+  philosophyAuthor: "Zia-ud-din Hassan",
   journeyTitle: "THE JOURNEY & CREATIVE SOUL",
   journeyParagraphs: [
-    "Self-trained and unbothered by commercial trends, M. D. Ahmad spent a lifetime capturing the quiet stillness of rural life, mountain cabins, and stormy tides. His work is a continuous seeking of atmospheric light and heavy, textured compositions that exist on the boundaries of dream and reality.",
+    "Self-trained and unbothered by commercial trends, Zia-ud-din Hassan spent a lifetime capturing the quiet stillness of rural life, mountain cabins, and stormy tides. His work is a continuous seeking of atmospheric light and heavy, textured compositions that exist on the boundaries of dream and reality.",
     "Working primarily in oil with coarse brushes and a restricted palette of deep charcoals, earthy ambers, and dusty silvers, his painting surfaces evoke nostalgia and quiet comfort. Each canvas serves as a time capsule, preserving the fleeting warmth of pastoral life and the majestic solitude of wild spaces."
   ],
   contactTitle: "[TEXT BLOCK 5] — THE PERMANENT ARCHIVE",
   contactText: "These paintings were produced in extremely limited quantities and are already in the hands of their rightful caretakers and owners. There are absolutely no paintings available for buying or selling, and this space serves strictly as a permanent archive of the artist's legacy.",
-  contactEmail: "archives@mdahmad.com",
+  contactEmail: "archives@ziu-ud-din.com",
   contactPhone: "+91 98450 12053",
   portraitUrl: "/src/assets/images/artist_portrait_1782059993153.jpg",
-  portraitCaption: "The Artist M. D. Ahmad — Dramatic Chiaroscuro Study",
+  portraitCaption: "The Artist Zia-ud-din Hassan — Dramatic Chiaroscuro Study",
   brushstrokeUrl: "/src/assets/images/brushstroke_detail_1782060016154.jpg",
   brushstrokeCaption: "Detail of aged oil paint layers and studio lighting",
   painting1: {

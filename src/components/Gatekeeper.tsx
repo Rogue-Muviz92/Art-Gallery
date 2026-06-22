@@ -178,7 +178,7 @@ export default function Gatekeeper({ children, fatherName }: GatekeeperProps) {
               Copyright Rejected
             </h2>
             <p className="font-sans text-xs text-neutral-500 leading-relaxed pt-2">
-              Viewing permission has been automatically terminated because you did not consent to the Intellectual Property & Copyright protect laws of the estate of <span className="text-white font-serif">{fatherName || "M. D. Ahmad"}</span>.
+              Viewing permission has been automatically terminated because you did not consent to the Intellectual Property & Copyright protect laws of the estate of <span className="text-white font-serif">{fatherName || "Zia-ud-din Hassan"}</span>.
             </p>
           </div>
 
@@ -228,7 +228,7 @@ export default function Gatekeeper({ children, fatherName }: GatekeeperProps) {
               Archival Verification
             </h1>
             <p className="font-serif text-sm text-neutral-400 italic font-light leading-relaxed">
-              Official online catalog tracking the absolute artistic estate and historic compositions of {fatherName || "M. D. Ahmad"}.
+              Official online catalog tracking the absolute artistic estate and historic compositions of {fatherName || "Zia-ud-din Hassan"}.
             </p>
           </div>
 
@@ -355,7 +355,7 @@ export default function Gatekeeper({ children, fatherName }: GatekeeperProps) {
             
             {/* Introductory declaration */}
             <div className="bg-[#1A1A1A] border-l-2 border-[#C5A880] p-4 font-serif italic text-[#E8E6E1]/90 rounded-sm">
-              "To protect the lifelong quiet memories, visual expressions, and artistic legacy of {fatherName || "M. D. Ahmad"}, we request that all verified portal visitors review, understand, and accept the copyright statements."
+              "To protect the lifelong quiet memories, visual expressions, and artistic legacy of {fatherName || "Zia-ud-din Hassan"}, we request that all verified portal visitors review, understand, and accept the copyright statements."
             </div>
 
             {/* Content Clauses */}
@@ -366,7 +366,7 @@ export default function Gatekeeper({ children, fatherName }: GatekeeperProps) {
                   Ownership of Content
                 </h4>
                 <p className="text-neutral-400 text-xs pl-4 leading-relaxed">
-                  All content presented on this website, including but not limited to the paintings, images, photography, text, design, and layout, is the exclusive intellectual property of <strong className="font-serif font-light">{fatherName || "M. D. Ahmad"}</strong> and is protected by international copyright laws. All rights reserved.
+                  All content presented on this website, including but not limited to the paintings, images, photography, text, design, and layout, is the exclusive intellectual property of <strong className="font-serif font-light">{fatherName || "Zia-ud-din Hassan"}</strong> and is protected by international copyright laws. All rights reserved.
                 </p>
               </div>
 
@@ -386,7 +386,7 @@ export default function Gatekeeper({ children, fatherName }: GatekeeperProps) {
                   Prohibited Conduct (No Copying or Distribution)
                 </h4>
                 <p className="text-neutral-400 text-xs pl-4 leading-relaxed">
-                  You are strictly prohibited from doing any of the following without prior express written consent from <strong className="font-serif font-light">{fatherName || "M. D. Ahmad"}</strong>:
+                  You are strictly prohibited from doing any of the following without prior express written consent from <strong className="font-serif font-light">{fatherName || "Zia-ud-din Hassan"}</strong>:
                 </p>
                 <ul className="pl-8 space-y-2 pt-1 text-xs text-neutral-400 list-disc">
                   <li><strong className="text-neutral-200">Reproduction:</strong> Copying, downloading, screen-capturing, or printing any artwork or text.</li>

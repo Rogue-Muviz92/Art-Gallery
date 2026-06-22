@@ -21,7 +21,7 @@ export default function TermsModal({ isOpen, onClose, fatherName }: TermsModalPr
     };
   }, [isOpen]);
 
-  const actualFatherName = fatherName || "M. D. Ahmad";
+  const actualFatherName = fatherName || "Zia-ud-din Hassan";
 
   return (
     <AnimatePresence>
